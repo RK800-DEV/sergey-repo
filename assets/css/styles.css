@@ -1,0 +1,70 @@
+body {
+  background: white;
+  font-family: "Rubik";
+  padding-top: 56px;
+  color: black;
+}
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Rubik";
+}
+.h1, .h2, .h3, .h4, .h5, .h6{
+  font-family: "Rubik";
+}
+.jumbotron {
+  border-radius: 0px;
+}
+
+
+/* THREADBOX OFFICIAL THEME */
+.card {
+  border-radius: 6px;
+}
+.btn-outline-dark {
+  color: black;
+  border-color: black;
+}
+.btn-outline-dark:hover {
+  color: white;
+  border-color: black;
+  background-color: black;
+}
+.post-title {
+  color: black;
+}
+.post-title:hover {
+  color: black;
+}
+.bg-dark {
+  background: #000000 !important;
+}
+.border-none {
+  border: none;
+}
+.mt-2rem {
+  margin-top: 2rem;
+}
+.bg-welcome-gradient {
+  background: rgb(36,28,0);
+  background: linear-gradient(90deg, rgba(36,28,0,1) 0%, rgba(146,114,186,1) 0%, rgba(205,215,26,1) 100%, rgba(190,255,0,1) 100%);
+}
+.hero-jumbotron {
+  padding: 14rem;
+  margin-bottom: 0px;
+}
+.about-me {
+  background-color: white;
+  padding-top: 14rem;
+  padding-bottom: 14rem;
+  padding-right: 14rem;
+  padding-left: 14rem;
+  margin-bottom: 0px;
+}
+.my-projects {
+  padding-top: 14rem;
+  padding-bottom: 14rem;
+  background: rgb(36,28,0);
+  background: linear-gradient(90deg, rgba(36,28,0,1) 0%, rgba(80,122,128,1) 0%, rgba(0,228,255,1) 100%);
+  padding-right: 14rem;
+  padding-left: 14rem;
+  margin-bottom: 0px;
+}
