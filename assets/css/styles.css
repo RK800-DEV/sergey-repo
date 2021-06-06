@@ -53,18 +53,10 @@ h1, h2, h3, h4, h5, h6 {
 }
 .about-me {
   background-color: white;
-  padding-top: 14rem;
-  padding-bottom: 14rem;
-  padding-right: 14rem;
-  padding-left: 14rem;
   margin-bottom: 0px;
 }
 .my-projects {
-  padding-top: 14rem;
-  padding-bottom: 14rem;
   background: rgb(36,28,0);
   background: linear-gradient(90deg, rgba(36,28,0,1) 0%, rgba(80,122,128,1) 0%, rgba(0,228,255,1) 100%);
-  padding-right: 14rem;
-  padding-left: 14rem;
   margin-bottom: 0px;
 }
