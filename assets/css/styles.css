@@ -48,7 +48,6 @@ h1, h2, h3, h4, h5, h6 {
   background: linear-gradient(90deg, rgba(36,28,0,1) 0%, rgba(146,114,186,1) 0%, rgba(205,215,26,1) 100%, rgba(190,255,0,1) 100%);
 }
 .hero-jumbotron {
-  padding: 14rem;
   margin-bottom: 0px;
 }
 .about-me {
